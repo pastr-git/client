@@ -1,0 +1,38 @@
+$colors: (
+  background: rgb(32, 18, 8),
+
+  href: #969696,
+  navbar: #170d06,
+
+  linenumber-border: #ff0000,
+  invalidinput-border: #dc28289e,
+
+  button: #a0a0a0bf,
+  button-delete: #952c2c,
+  disabled: #a0a0a061,
+  divider: rgba(37, 37, 37, 0.4),
+);
+
+$font-main: 'Avenir', Helvetica, Arial, sans-serif;
+$font-main-sub: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+$font-title: 'Lato', sans-serif;
+
+$fonts: (
+  main: $font-main,
+  main-sub: $font-main-sub,
+  title: $font-title
+);
+
+
+$scrollbar: (
+  track: #b8c0c838,
+  thumb: #737373,
+  width: 0.5em,
+  height: 0.5em,
+);
+
+$margins: (
+  default-left: 20px,
+  input-left: 10px,
+  navbar-bottom: 5px
+);

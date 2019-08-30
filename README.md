@@ -1,2 +1,1 @@
-# client
-Pastr Vue frontend
+# Pastr Client - Vue
