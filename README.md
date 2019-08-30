@@ -13,6 +13,9 @@
 
 ### GET {BASE}/{id}
 Opens the [`view`](src/views/view.vue) page and fetches one paste by ID.
+
+### GET {BASE}/{id}#L{line}
+Opens the [`view`](src/views/view.vue) page and fetches one paste by ID. Will automatically nagigate to line number "{line}".
  
 ### GET {BASE}/
 Opens the [`create/edit`](src/views/create.vue) page.
